@@ -2,7 +2,6 @@
 
 Projeto de **análise de dados** com foco em **ETL, SQL e visualização**, utilizando o **Databricks (Free Edition)** para coletar, transformar e analisar dados de cotação do Bitcoin em reais (BRL).
 
---
 
 ## 🎯 Objetivo do Projeto
 
@@ -15,7 +14,6 @@ Construir um pipeline simples de dados que:
 
 Projeto desenvolvido com foco em **aprendizado prático** e **portfólio para vagas de Analista de Dados Júnior / Power BI**.
 
---
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -26,7 +24,6 @@ Projeto desenvolvido com foco em **aprendizado prático** e **portfólio para va
 - **Delta Lake**
 - **Dashboards Databricks**
 
---
 
 ## 🔄 Pipeline de Dados
 
@@ -36,7 +33,6 @@ Projeto desenvolvido com foco em **aprendizado prático** e **portfólio para va
 4. Consultas SQL para análise
 5. Visualização dos dados em dashboard
 
---
 
 ## 📈 Dashboard
 
@@ -47,7 +43,6 @@ O dashboard apresenta:
 
 [Dashboard Bitcoin](dashboard/dashboard_bitcoin.jpeg)
 
---
 
 ## 📂 Estrutura do Projeto
 
